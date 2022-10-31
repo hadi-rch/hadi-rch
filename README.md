@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Hadi
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Node Js & React Js
+- 📫 How to reach me hadirich3@gmail.com
