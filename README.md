@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Hadi<br>👀 I’m interested in Web Development<br>🌱 I’m currently learning Laravel & Vue<br>📫 How to reach me hadirich3@gmail.com 085156064791
+👋 Hi, I’m Hadi<br>👀 I’m interested in Web Development<br>🌱 I’m currently learning Laravel & Vue<br>📫 How to reach me hadirich3@gmail.com
 
 
 ## 🌐 Socials:
